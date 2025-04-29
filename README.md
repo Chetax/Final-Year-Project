@@ -69,4 +69,4 @@ These results emphasize the strength of the hybrid feature representation and it
 - [**Abhijeet Fasate**](https://github.com/AbhijeetFasate13)  
 - [**Chetan Padhen**](https://github.com/Chetax)  
 - [**Akshay Patil**](https://github.com/devbyakshay)  
-- [**Pallive Kadam**](https://github.com/Pallavik24)  
+- [**Pallavi Kadam**](https://github.com/Pallavik24)  
